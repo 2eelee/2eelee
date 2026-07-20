@@ -1,3 +1,7 @@
+<img src="./images/userstats.svg" alt="GitHub Contributions" width="700">
+
+<br>
+
 <div align="center">
 
 <h1>YOO HYUNSEO</h1>
