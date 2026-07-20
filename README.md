@@ -1,12 +1,8 @@
-<img src="./images/userstats.svg" alt="GitHub Contributions" width="700">
-
-<br>
-
 <div align="center">
 
 <h1>YOO HYUNSEO</h1>
 
-<p><strong>Game Client Developer</strong></p>
+<p><b>Game Client Developer</b></p>
 
 <br>
 
