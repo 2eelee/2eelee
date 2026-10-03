@@ -6,14 +6,6 @@
 
 <h3>Game Development</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/DirectX_11-107C10?style=flat-square&logo=windows&logoColor=white" alt="DirectX 11">
-</p>
-
-<br>
-
 <br>
 
 <h3>Things I Shipped</h3>
