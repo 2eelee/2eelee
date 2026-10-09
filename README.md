@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile/cover.png" width="100%" alt="Profile cover">
-
-<br>
-
 # Hi, I'm Hyunseo.
 
 Games, tools, and whatever catches my interest.
