@@ -4,7 +4,7 @@
 
 <br>
 
-# Hi, I'm Hyunseo. ✳
+# Hi, I'm Hyunseo.
 
 Games, tools, and whatever catches my interest.
 
@@ -16,7 +16,7 @@ Games, tools, and whatever catches my interest.
 
 ---
 
-### ✳ Lately...
+### Lately...
 
 **KRAFTON JUNGLE · Game Tech Lab**
 
@@ -35,7 +35,7 @@ Currently exploring rendering, editor tools, and UI.
 
 <br>
 
-### ✳ Projects
+### Projects
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ A multiplayer PvE raid game featuring customizable drones, shared equipment, and
 
 <br>
 
-### ✳ Interests
+### Interests
 
 `Game Systems` · `UI/UX` · `Creative Tools`  
 `Interactive Experiences` · `Visual Design`
