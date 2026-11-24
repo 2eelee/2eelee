@@ -35,6 +35,23 @@ Currently exploring rendering, editor tools, and UI.
 
 <table>
 <tr>
+<td width="40%" valign="middle" align="center">
+
+<a href="https://pattern-breaker-ft4t.netlify.app/run6/"><strong>Play in Browser ↗</strong></a>
+
+</td>
+<td valign="middle">
+
+**탑을 오르다 보니 최강자가 되었습니다?!**
+
+<sub>✦ GAME · PERSONAL · RELEASED</sub>
+
+A turn-based tactics game about reading enemy attack patterns and turning them against each other as you climb a tower.
+
+</td>
+</tr>
+
+<tr>
 <td width="40%" valign="middle">
 
 <a href="https://github.com/2eelee/eisenhower-matrix-widget/releases/tag/v0.1.0">
