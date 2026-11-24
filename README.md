@@ -35,9 +35,11 @@ Currently exploring rendering, editor tools, and UI.
 
 <table>
 <tr>
-<td width="40%" valign="middle" align="center">
+<td width="40%" valign="middle">
 
-<a href="https://pattern-breaker-ft4t.netlify.app/run6/"><strong>Play in Browser ↗</strong></a>
+<a href="https://pattern-breaker-ft4t.netlify.app/run6/">
+<img src="./assets/profile/pattern-breaker.jpg" width="100%" alt="Turn-based battle in 탑을 오르다 보니 최강자가 되었습니다?!">
+</a>
 
 </td>
 <td valign="middle">
@@ -47,6 +49,8 @@ Currently exploring rendering, editor tools, and UI.
 <sub>✦ GAME · PERSONAL · RELEASED</sub>
 
 A turn-based tactics game about reading enemy attack patterns and turning them against each other as you climb a tower.
+
+[Play in Browser ↗](https://pattern-breaker-ft4t.netlify.app/run6/)
 
 </td>
 </tr>
